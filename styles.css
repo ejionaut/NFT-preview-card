@@ -78,6 +78,7 @@
     align-items: center;
     justify-content: center;
     transition: opacity 0.3s;
+    cursor: pointer;
     opacity: 0;
   }
 
